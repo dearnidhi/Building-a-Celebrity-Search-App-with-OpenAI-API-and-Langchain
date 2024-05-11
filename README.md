@@ -1,0 +1,1 @@
+# Building-a-Celebrity-Search-App-with-OpenAI-API-and-Langchain
